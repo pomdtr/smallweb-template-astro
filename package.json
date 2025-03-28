@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@deno/astro-adapter": "^0.3.0",
     "astro": "^5.5.5"
   }
 }
